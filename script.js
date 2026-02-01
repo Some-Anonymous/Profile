@@ -2,4 +2,4 @@
 let nammen = Aragao
 
 // Exibit me
-console.log("Hallo. Ich bin " + name + ", und ich studiere im CTRB :)")
+console.log("Hallo. Ich bin " + nammen + ", und ich studiere im CTRB :)")
