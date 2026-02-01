@@ -1,5 +1,4 @@
-// Attribute Aragao to name
-let nammen = "Aragão"
+// Useful snippets: clg, sti, sto, fof, cwa
+let name = "Aragão"
 
-// Exibit me
-console.log("Hallo. Ich bin " + nammen + ", und ich studiere im CTRB :)")
+console.log("Hallo. Ich bin " + name + ".")
