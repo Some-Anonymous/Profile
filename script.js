@@ -1,5 +1,5 @@
 // Attribute Aragao to name
-let name = Aragao
+let nammen = Aragao
 
 // Exibit me
-console.log("Hallo. Ich bin " + name + ", and I study at CTRB :)")
+console.log("Hallo. Ich bin " + name + ", und ich studiere im CTRB :)")
